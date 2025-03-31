@@ -9,7 +9,7 @@ bananen
 orangen
 kekse
 bier
-leberkaaas
+leberkas
 chips
 wurst
 kaese
